@@ -39,7 +39,7 @@
 
                 <TextView
                     android:id="@+id/title"
-                    style="@style/TextAppearance.Title"
+                    android:textAppearance="?attr/textAppearanceHeadline5"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
@@ -60,7 +60,7 @@
 
                 <TextView
                     android:id="@+id/subtitle"
-                    style="@style/TextAppearance.Subtitle"
+                    android:textAppearance="?attr/textAppearanceHeadline6"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="13dp"
